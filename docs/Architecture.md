@@ -2,7 +2,7 @@
 
 ``` mermaid
 
-graph LR
+flowchart LR
 
  subgraph WAN
     subgraph InternalNetwork[Internal Network]
